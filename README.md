@@ -68,8 +68,6 @@ Para capturar la naturaleza operativa, se implementó una arquitectura de doble 
 ![Streamlit App Placeholder](./assets/streamlit_app.png)
 > *Interfaz de ajuste de recursos directivos. Las alertas de saturación se neutralizan dinámicamente al asignar personal de refuerzo, visualizando el cierre de la brecha operativa.*
 
-*(Nota: Crea una carpeta llamada `assets` en tu repositorio y sube ahí tus 2 imágenes con los nombres exactos `powerbi_dashboard.png` y `streamlit_app.png`)*
-
 ---
 
 ## 📂 Estructura del Repositorio
