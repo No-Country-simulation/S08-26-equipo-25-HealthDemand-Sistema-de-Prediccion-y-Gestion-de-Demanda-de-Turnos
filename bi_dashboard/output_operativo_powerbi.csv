@@ -1,0 +1,43 @@
+fecha,sede,especialidad,demanda_bruta_proyectada,prob_ausentismo,capacidad_diaria,demanda_neta_esperada,brecha_turnos,tasa_utilizacion,alerta_operativa
+2025-01-01,Sede Central,Cardiología,53,0.16,45,45,0,1.0,Riesgo de Saturación
+2025-01-01,Sede Central,Pediatría,43,0.16,50,36,-14,0.72,Óptimo
+2025-01-01,Sede Central,Psiquiatría,29,0.2,30,23,-7,0.7666666666666667,Óptimo
+2025-01-01,Sede Norte,Cardiología,57,0.16,25,48,23,1.92,Riesgo de Saturación
+2025-01-01,Sede Norte,Pediatría,22,0.16,35,18,-17,0.5142857142857142,Óptimo
+2025-01-01,Sede Norte,Psiquiatría,35,0.2,20,28,8,1.4,Riesgo de Saturación
+2025-01-02,Sede Central,Cardiología,53,0.16,45,45,0,1.0,Riesgo de Saturación
+2025-01-02,Sede Central,Pediatría,33,0.16,50,28,-22,0.56,Óptimo
+2025-01-02,Sede Central,Psiquiatría,37,0.2,30,30,0,1.0,Riesgo de Saturación
+2025-01-02,Sede Norte,Cardiología,25,0.16,25,21,-4,0.84,Óptimo
+2025-01-02,Sede Norte,Pediatría,25,0.16,35,21,-14,0.6,Óptimo
+2025-01-02,Sede Norte,Psiquiatría,38,0.2,20,30,10,1.5,Riesgo de Saturación
+2025-01-03,Sede Central,Cardiología,50,0.16,45,42,-3,0.9333333333333333,Riesgo de Saturación
+2025-01-03,Sede Central,Pediatría,54,0.16,50,45,-5,0.9,Riesgo de Saturación
+2025-01-03,Sede Central,Psiquiatría,38,0.2,30,30,0,1.0,Riesgo de Saturación
+2025-01-03,Sede Norte,Cardiología,17,0.16,25,14,-11,0.56,Óptimo
+2025-01-03,Sede Norte,Pediatría,36,0.16,35,30,-5,0.8571428571428571,Óptimo
+2025-01-03,Sede Norte,Psiquiatría,16,0.2,20,13,-7,0.65,Óptimo
+2025-01-04,Sede Central,Cardiología,38,0.16,45,32,-13,0.7111111111111111,Óptimo
+2025-01-04,Sede Central,Pediatría,58,0.16,50,49,-1,0.98,Riesgo de Saturación
+2025-01-04,Sede Central,Psiquiatría,44,0.2,30,35,5,1.1666666666666667,Riesgo de Saturación
+2025-01-04,Sede Norte,Cardiología,52,0.16,25,44,19,1.76,Riesgo de Saturación
+2025-01-04,Sede Norte,Pediatría,16,0.16,35,13,-22,0.37142857142857144,Subutilización
+2025-01-04,Sede Norte,Psiquiatría,35,0.2,20,28,8,1.4,Riesgo de Saturación
+2025-01-05,Sede Central,Cardiología,47,0.16,45,39,-6,0.8666666666666667,Óptimo
+2025-01-05,Sede Central,Pediatría,26,0.16,50,22,-28,0.44,Subutilización
+2025-01-05,Sede Central,Psiquiatría,36,0.2,30,29,-1,0.9666666666666667,Riesgo de Saturación
+2025-01-05,Sede Norte,Cardiología,58,0.16,25,49,24,1.96,Riesgo de Saturación
+2025-01-05,Sede Norte,Pediatría,39,0.16,35,33,-2,0.9428571428571428,Riesgo de Saturación
+2025-01-05,Sede Norte,Psiquiatría,41,0.2,20,33,13,1.65,Riesgo de Saturación
+2025-01-06,Sede Central,Cardiología,56,0.16,45,47,2,1.0444444444444445,Riesgo de Saturación
+2025-01-06,Sede Central,Pediatría,42,0.16,50,35,-15,0.7,Óptimo
+2025-01-06,Sede Central,Psiquiatría,30,0.2,30,24,-6,0.8,Óptimo
+2025-01-06,Sede Norte,Cardiología,29,0.16,25,24,-1,0.96,Riesgo de Saturación
+2025-01-06,Sede Norte,Pediatría,58,0.16,35,49,14,1.4,Riesgo de Saturación
+2025-01-06,Sede Norte,Psiquiatría,17,0.2,20,14,-6,0.7,Óptimo
+2025-01-07,Sede Central,Cardiología,51,0.16,45,43,-2,0.9555555555555556,Riesgo de Saturación
+2025-01-07,Sede Central,Pediatría,21,0.16,50,18,-32,0.36,Subutilización
+2025-01-07,Sede Central,Psiquiatría,35,0.2,30,28,-2,0.9333333333333333,Riesgo de Saturación
+2025-01-07,Sede Norte,Cardiología,23,0.16,25,19,-6,0.76,Óptimo
+2025-01-07,Sede Norte,Pediatría,53,0.16,35,45,10,1.2857142857142858,Riesgo de Saturación
+2025-01-07,Sede Norte,Psiquiatría,32,0.2,20,26,6,1.3,Riesgo de Saturación
