@@ -13,12 +13,6 @@
 
 ---
 
-## 🔗 Live Demos & Entregables
-- 🖥️ **[Prueba el Simulador Web (Streamlit App) Aquí](#)** *(Reemplaza este # con tu link de Streamlit)*
-- 📊 **[Ver Tablero Operativo en Power BI (Video/NovyPro) Aquí](#)** *(Reemplaza este # con tu link de demostración)*
-
----
-
 ## 🚀 El Problema de Negocio vs. La Solución
 
 La planificación tradicional de turnos suele ser a ciegas. Esto genera agendas médicas saturadas, tiempos de espera insostenibles o, por el contrario, consultorios vacíos (No-Shows) que representan fugas de capital operativo.
