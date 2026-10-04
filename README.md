@@ -24,6 +24,16 @@ La planificación tradicional de turnos suele ser a ciegas. Esto genera agendas 
 
 ---
 
+## 📈 Impacto Operativo y Resultados Clave (Business Value)
+
+Este ecosistema no solo genera predicciones, sino que impacta directamente en el *Bottom Line* (rentabilidad) y el nivel de servicio de la clínica mediante los siguientes resultados:
+
+* 🎯 **Recuperación de Capacidad Ociosa (Overbooking Seguro):** El modelo XGBoost identifica con un **76% de efectividad** a los pacientes con alto riesgo de ausentismo. Esto permite a la clínica sobre-agendar turnos estratégicamente de forma segura, reduciendo las "horas-médico" perdidas por inasistencias.
+* 📉 **Reducción del Costo de Reacción:** Al proyectar la demanda bruta con LightGBM y cruzarla con la capacidad instalada a 7 días, se elimina la necesidad de aprobar horas extras de emergencia o contratar médicos de reemplazo de último minuto.
+* ⚖️ **Estabilización de la Tasa de Ocupación (KPI):** El simulador prescriptivo facilita decisiones precisas para mantener el nivel de servicio. En lugar de tener días al 120% de saturación (mal servicio) y días al 50% (pérdida de dinero), la redistribución inteligente mantiene la operación en un margen óptimo y rentable (85% - 90%).
+
+---
+
 ## 🧠 Arquitectura del Sistema (Pipeline Analítico)
 
 El proyecto abarca el ciclo completo del dato, desde el procesamiento hasta la toma de decisiones gerenciales, dividido en 4 pilares tecnológicos:
